@@ -13,6 +13,5 @@ $ cd ~/Library/Containers/com.apple.iWork.Pages/Data/Library/Application\ Suppor
 <code>
 $ git clone https://github.com/RandyMcMillan/User-Templates.git
 </code>
-<code>
-$ cd ~/Library/Containers/com.apple.iWork.Pages/Data/Library/Application\ Support/User\ Templates/
-</code>
+
+Rename "User-Templates" to "User Templates"
